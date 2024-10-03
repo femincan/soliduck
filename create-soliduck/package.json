@@ -1,0 +1,14 @@
+{
+  "name": "create-soliduck",
+  "version": "0.0.0",
+  "description": "A CLI tool to scaffold a soliduck app",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "files": [
+    "src",
+    "../LICENSE"
+  ],
+  "author": "Furkan Emin Can",
+  "license": "MIT"
+}
