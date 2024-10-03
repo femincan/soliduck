@@ -6,8 +6,7 @@
   "scripts": {},
   "keywords": [],
   "files": [
-    "src",
-    "../LICENSE"
+    "dist"
   ],
   "author": "Furkan Emin Can",
   "license": "MIT"
