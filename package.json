@@ -6,6 +6,9 @@
   "scripts": {
     "test": ""
   },
+  "files": [
+    "src"
+  ],
   "keywords": [],
   "author": "Furkan Emin Can",
   "license": "MIT"
